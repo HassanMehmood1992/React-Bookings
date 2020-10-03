@@ -1,3 +1,7 @@
+## React Bookings
+
+React project to manage booking especially for Greece. Hotels, Catering, Orders PDFs generation.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
